@@ -8,9 +8,7 @@ author 'Bytesizd'
 description 'A simple abstraction library for CFX/Microsoft Deferral Adaptive Cards'
 
 server_script {
-    'server/main.lua',
-    'server/examples/current.lua',
-    'config.lua'
+    'server/main.lua'
 }
 
 version '1.0.0'
