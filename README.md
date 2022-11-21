@@ -13,7 +13,7 @@
 
 ## API Documentation and Usage
 
-- [https://github.com/BryceCanyonCounty/bcc-deferralcards/wiki](https://github.com/BryceCanyonCounty/bcc-deferralcards/wiki)
+- [wiki](https://github.com/BryceCanyonCounty/bcc-deferralcards/wiki)
 
 ## Extra Resources
 - [Microsoft Adaptive Cards](https://adaptivecards.io)
