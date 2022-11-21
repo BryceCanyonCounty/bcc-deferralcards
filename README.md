@@ -11,7 +11,7 @@
 * Add `ensure bcc-deferralcards` to your `server.cfg` file
 * Now you are ready to get coding!
 
-## API Documentation
+## API Documentation and Usage
 
 - **In-depth docs coming soon!**
 
