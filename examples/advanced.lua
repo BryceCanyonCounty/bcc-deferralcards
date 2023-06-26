@@ -14,7 +14,7 @@ AddEventHandler('playerConnecting', function(name, kickreason, deferral)
                         text = 'Server password?!'
                     }),
                     DeferralCards.CardElement:TextBlock({
-                        text = "That's right, motherfucker! You have to enter a goddamn PASSWORD to connect to this server...",
+                        text = "That's right! You have to enter a PASSWORD to connect to this server...",
                         wrap = true
                     }),
                     DeferralCards.Input:Text({
