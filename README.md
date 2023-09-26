@@ -23,4 +23,4 @@
 - This lib was originally created by **mw-138** ([fivem-deferralCards](https://github.com/mw-138/fivem-deferralCards)) for FiveM. This library/resource is a RedM version what has been thouroughly tested specifically for RedM and will continue to be developed with RedM specifically in mind. **(More enhancements to come)**.
 
 ## Need More Support? 
-- [Vorp Disord](https://discord.gg/DHGVAbCj7N)
+- [BCC Discord](https://discord.gg/cQMJaTqcqJ)
